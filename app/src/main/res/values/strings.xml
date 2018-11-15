@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">SmartTabLayout</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="back_login">Back to Login</string>
+    <string name="forgot_password_">Forgot Password?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_main">ActivityMain</string>
+    <string name="rupees_symbol">₹ </string>
+    <string name="inr">₹ %1$s</string>
+    <string name="selected_item"> item(s) in cart.</string>
+    <string name="footer_text">  item(s) in Cart ₹  </string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="my_cart">My Cart</string>
+    <string name="vat">Vat &amp; Service Tax</string>
+    <string name="tax">GST</string>
+    <string name="applu_coupon">Apply Coupon</string>
+    <string name="amount_payable">Amount Payable(including GST)</string>
+    <string name="continu">Continue</string>
+    <string name="phone_secrecy">Your number is safe with us. We wont share your details with anyone.</string>
+    <string name="price_item">Price (%1$s items)</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="formated_address">Current Location</string>
+    <string name="login">Login</string>
+    <string name="done">Done</string>
+    <string name="btn_order_failure_text">Okay</string>
+    <string name="txt_order_failure">Opps! Server error occured while making your payment. Please try again.</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="hint_area">Search for the Area, Street Name</string>
+    <string name="hint_location">Search for the delivery location</string>
+    <string name="use_location">Use Current Location</string>
+    <string name="use_pin_location">Use Pin Location</string>
+    <string name="my_order">My Orders</string>
+    <string name="terms_conditions">Terms and Conditions</string>
+    <string name="terms_shipping">Shipping will be done within 24 hours of the order placed and delivery will be done with 5-6 working days.</string>
+    <string name="refund_policy">Cancellation can be done with 24 hours of the order placed. Return can be requested within 48 hours of the order received and refund will be done through online mode in 5-6 working days.</string>
+    <string name="privacy_cookies">We use Cookies to keep track of your current shopping session to personalize your experience and so that you may retrieve your shopping cart at any time. Cookies are tiny text files which our Website places on your computers hard drive to store information about your shopping session and to identify your computer.</string>
+    <string name="privacy_policy">For us privacy for our valued customer is very important. We strongly believe that the personal information of our customers should not be shared with the third party without the prior consent or request from the customer. Privacy is the right of an individual and at ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD. the information of the customer such as contact no., email, addresses etc is used only for the internal purpose and not for sale. Your contact information is stored in our database and is only used to contact you during the course of your stay with us for sharing the status of your room bookings with us and then after for announcement of our latest deals and news etc. We at ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD.. condemn the unauthorized reach and misuse and/or disclosure of the personal information of the customer and we have strict guidelines and high security features to prevent the same. Any changes in our ‘Privacy Policy’ will be posted here on the website. SECURE ONLINE PAYMENTS The visitor on our website please take a note that your name, email address and other personal information submitted on our website may be stored with us and may also appear on the website. Like other platforms our server log files also receives general information such as IP address of the visitor, cookie etc. For the financial transactions by credit card ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD. uses a 3rd party secure payment gateway provided by “PayU” and the credit card details are ‘not stored’ with, instead the ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD.. information is securely stored and encrypted with Visa/MasterCard.</string>
+    <string name="terms_pera">When You use any of the services provided by Us through the Website, including but not limited to, (e.g. Product Reviews, Seller Reviews), You will be subject to the rules, guidelines, policies, terms, and conditions applicable to such service, and they shall be deemed to be incorporated into this Terms of Use and shall be considered as part and parcel of this Terms of Use. We reserve the right, at our sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time without any prior written notice to you. It is your responsibility to review these Terms of Use periodically for updates / changes. Your continued use of the Website following the posting of changes will mean that you accept and agree to the revisions. As long as you comply with these Terms of Use, We grant you a personal, non-exclusive, non-transferable, limited privilege to enter and use the Website.</string>
+    <string name="terms_use">ACCESSING, BROWSING OR OTHERWISE USING THE SITE INDICATES YOUR AGREEMENT TO ALL THE TERMS AND CONDITIONS UNDER THESE TERMS OF USE, SO PLEASE READ THE TERMS OF USE CAREFULLY BEFORE PROCEEDING.</string>
+    <string name="terms_data">aabsweets.in is owned and operated by ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD. a company incorporated under the laws of India. Your use of the Website and services and tools are governed by the following terms and conditions ("Terms of Use") as applicable to the Website including the applicable policies which are incorporated herein by way of reference. If you transact on the Website, You shall be subject to the policies that are applicable to the Website for such transaction. By mere use of the Website, You shall be contracting with ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD. and these terms and conditions including the policies constitute your binding obligations, with ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD... For the purpose of these Terms of Use, wherever the context so requires "You" or "User" shall mean any natural or legal person who has agreed to become a buyer on the Website by providing Registration Data while registering on the Website as Registered User using the computer systems.  aabsweets.in allows the User to surf the Website or making purchases without registering on the Website. The term "We", "Us", "Our" shall mean ADYAR ANANDA BHAVAN SWEETS INDIA PVT LTD. When You use any of the services provided by Us through the Website, including but not limited to, (e.g. Product Reviews, Seller Reviews), You will be subject to the rules, guidelines, policies, terms, and conditions applicable to such service, and they shall be deemed to be incorporated into this Terms of Use and shall be considered as part and parcel of this Terms of Use. We reserve the right, at our sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time without any prior written notice to you. It is your responsibility to review these Terms of Use periodically for updates / changes. Your continued use of the Website following the posting of changes will mean that you accept and agree to the revisions. As long as you comply with these Terms of Use, We grant you a personal, non-exclusive, non-transferable, limited privilege to enter and use the Website.</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="logout_message">Successfully Logged Out!</string>
+
+    <string name="email">EMAIL</string>
+    <string name="valid_email">Enter valid email id</string>
+    <string name="name">NAME</string>
+    <string name="door_number">Address Line 1</string>
+    <string name="pin_address">Address1</string>
+
+    <string name="apartment_number">Address Line 2</string>
+
+    <string name="street">Street</string>
+    <string name="mobile">MOBILE</string>
+    <string name="valid_mobile">Enter valid mobile number.</string>
+    <string name="password">PASSWORD</string>
+    <string name="valid_name">Enter a name</string>
+    <string name="valid_password">Enter a password</string>
+    <string name="repassword">Repassword</string>
+    <string name="city">City</string>
+    <string name="txt_location">Location</string>
+    <string name="pincode">Pincode</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="save_n_contine">Save and Continue</string>
+
+
+    <string-array name="tab_header">
+        <item>Main Course</item>
+        <!--<item>All Day Breakfast</item>
+        <item>Quick Bites</item>
+        <item>Quick Bites</item>
+        <item>Quick Bites</item>-->
+    </string-array>
+
+    <string-array name="payment_options">
+        <!--<item>Net Banking</item>
+        <item>Credit Card</item>
+        <item>Debit Card</item>-->
+        <item>Cash On Delivery</item>
+        <item>PayUmoney</item>
+        <!--<item>Citrus Pay</item>-->
+    </string-array>
+
+    <string name="no_store">No Stores Found!</string>
+    <string name="server_errror">Server issue</string>
+    <string name="no_delivery_at_this_location">We are not delivering at this location currently.</string>
+    <string name="gps_off">Search for the restaurants near you.</string>
+    <string name="network_error">Network Error!</string>
+    <string name="no_orders">You do not have any orders yet.</string>
+    <string name="cart_clear_warn">Cart Clear Warning!</string>
+    <string name="str_app_exit">Do you want to exit app?</string>
+    <string name="cart_clr_msg">This action will clear your selected Product(s) from Cart. Do you want to continue?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="order_error">Error at order placing</string>
+    <string name="order_placed">Order Placed</string>
+    <string name="order_failure">Order Failure</string>
+    <string name="select_restaurant">Select a restaurant near to you.</string>
+
+    <string name="cod">CASH ON DLY</string>
+    <string name="payu">PAYU</string>
+    <string name="online">Online</string>
+    <string name="no_order">No Order Placed.</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_no">Order Number</string>
+
+    <string name="str_new">New</string>
+    <string name="str_accepted">Accepted</string>
+    <string name="str_ready">Ready to deliver</string>
+    <string name="str_delivered">Delivered</string>
+    <string name="order_details_not_fount">Order details not found.</string>
+    <string name="cash_on_del">Cash On Delivery</string>
+    <string name="delivery_point">  Delivery Point Details</string>
+    <string name="product">Products</string>
+    <string name="cancelled">Cancelled</string>
+    <!--<string name="facebook_app_id">602066066647740</string>-->
+    <string name="facebook_app_id">1959045037742307</string>
+    <string name="fb_login_protocol_scheme">fb1959045037742307</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://stg-shop.aabsweets.in\",\n  }\n}]</string>
+
+
+</resources>

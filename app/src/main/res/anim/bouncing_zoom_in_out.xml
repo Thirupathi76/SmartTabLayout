@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright (c) 2016 Techniche E-commerce Solutions Pvt Ltd
+  ~ No.14, 6th Floor,
+  ~ Orchid Techscape, STPI Campus,
+  ~ Cyber Park, Electronics City Phase1,
+  ~ Bangalore-560100.
+  ~
+  ~ All rights reserved.
+  ~
+  ~ This software is the confidential and proprietary information of Techniche E-commerce
+  ~ Solutions Pvt Ltd. You shall not disclose such Confidential Information and shall use it
+  ~ only in accordance with the terms of the license agreement you entered into with
+  ~ Techniche E-commerce Solutions Pvt Ltd.
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/bounce_interpolator" >
+    <scale
+        android:duration="600"
+        android:fromXScale="1"
+        android:fromYScale="0.5"
+        android:pivotX="50%"
+        android:pivotY="0%"
+        android:toXScale="1.0"
+        android:toYScale="1.0" />
+
+    <alpha
+        android:duration="600"
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0" />
+
+</set>
